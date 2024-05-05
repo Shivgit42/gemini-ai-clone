@@ -1,3 +1,6 @@
+[! IMPORTANT MESSAGE] : Use your own API key and generate configuration for security reasons of API multiple calls that probably can lead to maximum number of limit provided by any API provider and other security factors.
+
+
 # Gemini Clone
 
 Gemini Clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
